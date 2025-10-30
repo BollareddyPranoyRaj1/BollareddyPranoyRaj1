@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/pranoy-raj-bollareddy-8b62b6279" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/bollareddy_pranoy_raj" target="_blank" title="Instagram">
+  <a href="https://instagram.com/bolla_reddy____bpr_" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/pranoy2005" target="_blank" title="LeetCode">
